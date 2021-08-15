@@ -1,2 +1,0 @@
-# gerycash.github.io
-demo
